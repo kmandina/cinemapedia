@@ -10,3 +10,5 @@ flutter pub run build_runner build
 ```
 App examples:
 Google Play: https://play.google.com/store/apps/details?id=com.yaenlineasoft.cinemapedia&pli=1
+
+Apple Store: https://apps.apple.com/us/app/cinemapedia/id6464517818
